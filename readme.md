@@ -27,5 +27,8 @@ The following images demonstrate the web applications appearance and functionali
 ### [Github pages](https://sudo-apt-install.github.io/challenge1/)
 
 ### [Repository](https://github.com/sudo-apt-install/challenge1)
+<<<<<<< HEAD
 # new-practice
 # new-practice
+=======
+>>>>>>> 48fb603d1d9cf67d96ebe95c1c6cf17474661594
