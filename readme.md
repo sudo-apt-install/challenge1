@@ -8,7 +8,7 @@ The primary goal of this challange was to refactor the given code to vastly impr
 
 ## Readability
 
-The secondary goal of this challenge was to make the code cleaner and more readable than before. On top of using the semantic tags which improves readability of the code itself, I both consolidated and added notation to the CSS file to make it more clear what is going on.
+The secondary goal of this challenge was to make the code cleaner and more readable than before. The CSS had a lot of repetative sections, so on top of using the semantic tags which improves readability of the code itself, I both consolidated and added notation to the CSS file to make it more clear what is going on.
 
 #
 
